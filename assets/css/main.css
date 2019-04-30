@@ -3260,6 +3260,19 @@
 
 		}
 
-/* .card {
-	background: red
-} */
+#employment {
+	text-align: center;
+	font-size: 50px;
+}
+
+#resume {
+	margin-left: 70px
+}
+
+#current {
+	margin-left: 70px;
+}
+
+#positions {
+	margin-left: 110px;
+}
